@@ -1,2 +1,2 @@
-Lesson 9 using diff command
-Best tutorial
+- Added ecmascript6 - Lesson 9 using diff command
+    Best tutorial

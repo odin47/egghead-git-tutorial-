@@ -1,1 +1,1 @@
-NEw test file 5
+NEw test file 5 - Added ecmascript6

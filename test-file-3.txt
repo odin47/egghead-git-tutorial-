@@ -1,1 +1,1 @@
-Test file 3 - to check mergeconflicts!
+Test file 3 - to check mergeconflicts! - - Added ecmascript6
